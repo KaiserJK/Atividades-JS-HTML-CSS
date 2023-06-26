@@ -8,7 +8,7 @@ function encontrarAlgarismoRomano(romano, algarismosRomanos) {
 }
 
 
-// Função para converter algarismos romanos em arábicos
+// Função para converter algarismos romanos 
 function converterAlgarismosRomanos(romano) {
   const algarismosRomanos = [
     ['M', 1000],['D', 500],['C', 100],['L', 50],['X', 10],['V', 5],['I', 1]
